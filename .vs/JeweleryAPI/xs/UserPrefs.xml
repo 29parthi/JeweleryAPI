@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{799B5516-7194-4484-A07C-2B6BC80A814A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JeweleryAPI/Startup.cs">
+    <Files>
+      <File FileName="JeweleryAPI/appsettings.json" Line="13" Column="2" />
+      <File FileName="JeweleryAPI/Models/JeweleryDBContext.cs" Line="14" Column="32" />
+      <File FileName="JeweleryAPI/Models/UserModel.cs" Line="1" Column="1" />
+      <File FileName="JeweleryAPI/Controllers/JeweleryController.cs" Line="1" Column="1" />
+      <File FileName="JeweleryAPI/Models/User.cs" Line="11" Column="1" />
+      <File FileName="JeweleryAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="JeweleryAPI/Startup.cs" Line="28" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JeweleryAPI" expanded="True">
+            <Node name="JeweleryAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JeweleryAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
